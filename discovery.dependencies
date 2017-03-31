@@ -1,0 +1,22 @@
+[
+ {
+   "repository" : "DiscoveryTeam/android_device_oppo_common",
+   "target_path": "device/oppo/common",
+   "branch"     :  "aosp-N-legacy"
+ },
+ {
+   "repository" : "DiscoveryTeam/android_kernel_oneplus_msm8994",
+   "target_path": "kernel/oneplus/msm8994",
+   "branch"     : "aosp-N-legacy"
+ },
+ {
+   "repository" : "kunalshah912/android_vendor_oneplus",
+   "target_path": "vendor/oneplus",
+   "branch"     : "aosp-N-legacy"
+ },
+ {
+   "repository" : "kunalshah912/android_vendor_qcom_binaries",
+   "target_path": "vendor/qcom/binaries",
+   "branch"     : "aosp-N-legacy"
+ }
+]
