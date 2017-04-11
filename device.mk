@@ -83,6 +83,7 @@ PRODUCT_PACKAGES += \
     libqcompostprocbundle \
     libqcomvisualizer \
     libqcomvoiceprocessing \
+    libbthost_if \
     tinymix
 
 PRODUCT_COPY_FILES += \
