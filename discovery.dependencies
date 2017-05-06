@@ -10,13 +10,18 @@
    "branch"     : "7.1.2"
  },
  {
-   "repository" : "kunalshah912/android_vendor_oneplus",
-   "target_path": "vendor/oneplus",
-   "branch"     : "7.1.2"
- },
- {
    "repository" : "kunalshah912/android_vendor_qcom_binaries",
    "target_path": "vendor/qcom/binaries",
    "branch"     : "7.1.2"
- }
+ },
+ {
+    "repository": "halogenOS/android_hardware_qcom_camera-op2",
+    "target_path": "hardware/qcom/camera-op2",
+    "branch": "XOS-7.1"
+ },
+ {
+    "repository": "halogenOS/android_vendor_oneplus_oneplus2",
+    "target_path": "vendor/oneplus/oneplus2",
+    "branch": "XOS-7.1"
+ },
 ]
